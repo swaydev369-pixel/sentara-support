@@ -43,7 +43,7 @@ Yes ✅ — your check-ins and reflections are **stored securely on your device*
 
 ## 🔗 Useful Links
 -  https://swaydev369-pixel.github.io/sentara-privacy/
-- [Terms of Service](https://swaydev369-pixel.github.io/sentara-support/terms)  
+- https://swaydev369-pixel.github.io/sentara-support/terms-of-service  
 
 ---
 
