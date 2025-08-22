@@ -22,7 +22,7 @@ If you encounter issues, try the following steps first:
 3. **Reinstall the app** if problems persist.  
 
 If you still need help, please **open an issue on this page** or email us at:  
-📧 **support@sentara.app**
+📧 **swaydev369@gmail.com**
 
 ---
 
