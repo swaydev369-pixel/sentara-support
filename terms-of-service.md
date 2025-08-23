@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Sentara – Terms of Service
 permalink: /terms-of-service/
 ---
@@ -11,7 +11,7 @@ permalink: /terms-of-service/
 Welcome to Sentara. These Terms of Service (“Terms”) govern your use of the Sentara mobile application (“App”) and related services. By downloading, accessing, or using Sentara, you agree to these Terms and our [Privacy Policy](https://swaydev369-pixel.github.io/sentara-privacy/). If you do not agree, please do not use the App.
 
 ## 1) Acceptance of Terms
-By using Sentara, you agree to these Terms and our [Privacy Policy](https://swaydev369-pixel.github.io/sentara-privacy/). If you do not agree, do not use the app.
+By using Sentara, you agree to these Terms and our [Privacy Policy](https://swaydev369-pixel.github.io/sentara-privacy/). If you do not agree, do not use the App.
 
 ## 2) Eligibility
 You must be at least 16 years old (or the age of digital consent in your country) to use the App. If you are under the age of majority, you must have a parent or guardian’s consent. The App is not directed to children.
